@@ -1,0 +1,28 @@
+body{
+    background:url("https://wallpapertag.com/wallpaper/middle/b/a/e/837575-nice-black-background-2560x1600-for-phone.jpg");
+    }
+h1{
+  color:snow;
+  text-align: center
+}
+
+.container {
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.tile {
+    width:23%;
+    padding:5.1%;
+
+  
+}
+
+.right {
+    border-right: 1px solid blue;
+}
+
+.bottom {
+    border-bottom: 1px solid red;
+}
